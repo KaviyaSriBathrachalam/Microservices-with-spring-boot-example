@@ -23,8 +23,10 @@ to get localhost:8761 page, you need to run the service regitry as mvn spring-bo
 
 the page that comes under localhost:8671, SPRING EUREKA is from spring actuator,
 
-SPRING ACTUATOR : this is something which will always monitor the data everytime, when we change something, it will give the status
-                what we have changed. This spring actuator is always active.
+SPRING ACTUATOR : 
+
+this is something which monitors the data everytime, when there is a change, it will give the status what has been changed immediately. spring actuator is always active.
+               
 ---------------------------------------------------------------------------------------------------------------------------------
 
 
